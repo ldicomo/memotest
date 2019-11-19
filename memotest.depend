@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1530081056 source:c:\users\usuario\desktop\lp1\memotest\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+	"presentacion.h"
+	"juegoFacil.h"
+	"juegoModerado.h"
+	"juegoDificil.h"
+
+1399506914 c:\users\usuario\desktop\lp1\memotest\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1527182583 c:\users\usuario\desktop\lp1\memotest\funciones.h
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+
+1530081056 c:\users\usuario\desktop\lp1\memotest\presentacion.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1527357207 c:\users\usuario\desktop\lp1\memotest\juego.h
+
+1530081056 c:\users\usuario\desktop\lp1\memotest\juegofacil.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1530112959 c:\users\usuario\desktop\lp1\memotest\juegomoderado.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1530113380 c:\users\usuario\desktop\lp1\memotest\juegodificil.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1530295661 c:\users\usuario\desktop\lp1\memotest\procesos.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"presentacion.h"
+
+1529043339 source:c:\users\usuario\desktop\lp1\memotest3\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+	"presentacion.h"
+	"juegoFacil.h"
+	"juegoModerado.h"
+	"juegoDificil.h"
+
+1399506914 c:\users\usuario\desktop\lp1\memotest3\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1529043339 c:\users\usuario\desktop\lp1\memotest3\presentacion.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1529043339 c:\users\usuario\desktop\lp1\memotest3\juegofacil.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1529043668 c:\users\usuario\desktop\lp1\memotest3\procesos.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"presentacion.h"
+
+1529043339 c:\users\usuario\desktop\lp1\memotest3\juegomoderado.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
+1529043339 c:\users\usuario\desktop\lp1\memotest3\juegodificil.h
+	<iostream>
+	"CSYSTEM/csystem.h"
+	"procesos.h"
+
